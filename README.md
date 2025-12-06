@@ -1,4 +1,4 @@
-<a href="https://chat.vercel.ai/">
+Providersoviders href="https://chat.vercel.ai/">
   <img alt="Next.js 14 and App Router-ready AI chatbot." src="app/(chat)/opengraph-image.png">
   <h1 align="center">Chat SDK</h1>
 </a>
@@ -32,9 +32,7 @@
   - [Neon Serverless Postgres](https://vercel.com/marketplace/neon) for saving chat history and user data
   - [Vercel Blob](https://vercel.com/storage/blob) for efficient file storage
 - [Auth.js](https://authjs.dev)
-  - Simple and secure authentication
-
-## Model Providers
+  - Simple and secure authenticatProvidersodel Providers
 
 This template uses the [Vercel AI Gateway](https://vercel.com/docs/ai-gateway) to access multiple AI models through a unified interface. The default configuration includes [xAI](https://x.ai) models (`grok-2-vision-1212`, `grok-3-mini`) routed through the gateway.
 
